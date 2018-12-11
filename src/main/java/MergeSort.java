@@ -1,6 +1,6 @@
 public class MergeSort {
 
-    //In case of you want to see output on console
+    // In case of you want to see output on console
     public static void main(String[] args) {
         int[] array = { 5, 6, 8, 7, 4, 2, 1, 3, 2, 2, 2, 2, 9, 111, 23, 2300, 21031203 };
         MergeSort mergesort = new MergeSort();
